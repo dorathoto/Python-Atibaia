@@ -32,6 +32,7 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 5. [TWP030 Operadores relacionais e lógicos](https://youtu.be/d6XyTLkTYJo)
 6. [TWP040 Marcadores](https://youtu.be/dhtEDVw5EFM)
 7. [TWP050 dinâmica, forte e múltipla](https://youtu.be/WqiKtAynpI0)
+8. [TWP052 Teste de Mesa ou Simulação](https://youtu.be/nvuWPGKiVtU)
 
 
 **Plus:**
