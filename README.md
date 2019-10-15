@@ -12,6 +12,8 @@ https://www.pycursos.com/python-para-zumbis/
 
 😊  Acompanhe seu andamento, [clique aqui](https://docs.google.com/spreadsheets/d/1WVIZw3rmagHS-F-5tFaSAvYS1p5AfoYbCqy8HVFKa38/edit?usp=sharing "clique aqui")
 
+Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de expandir o conhecimento ou ajudar em alguma duvida que possa surgir nos vídeos base.
+
 ------------
 
 
@@ -25,22 +27,27 @@ https://www.pycursos.com/python-para-zumbis/
 **Assistir:**
 1. [Seja um programador](https://youtu.be/S9uPNppGsGo "Seja um programador") 
 2. [TWP000 Apresentação e Motivação Python para Zumbis](https://youtu.be/6La690qlH5w "TWP000 Apresentação e Motivação Python para Zumbis")
-3. [TWP100 Condições](https://youtu.be/vyRXFoZEaJw)
-4. [TWP110 Else](https://youtu.be/wuX0ImNSWWQ "TWP110 Else")
-5. [TWP120 Estruturas aninhadas](https://youtu.be/noGG5WgVdoE "TWP120 Estruturas aninhadas")
-6. [WP130 elif](https://youtu.be/pjOJYIzvh3w "WP130 elif")
+3. [TWP010 Hello World Interativo](https://youtu.be/GpbkVHV8_64 "")
+4. [WP020 Variáveis e modo edição](https://youtu.be/9srd0tYvqv8 "")
+5. [TWP030 Operadores relacionais e lógicos](https://youtu.be/d6XyTLkTYJo)
+6. [TWP040 Marcadores](https://youtu.be/dhtEDVw5EFM)
+7. [TWP050 dinâmica, forte e múltipla](https://youtu.be/WqiKtAynpI0)
+
 
 **Plus:**
 - [Para que serve o Python part 2](https://youtu.be/Mp0vhMDI7fA "Mais sobre python")
 - [Instalando Python e o IDLE](https://youtu.be/VuKvR1J2LQE?t=472 "Instalando Python e o IDLE")
 
-**Tarefa**: Configure seu ambiente de trabalho. Consulte no grupo qualquer dúvida ou dificuldade. Escreva um programa interativo que utilize if e else, poste o print no grupo.
+**Tarefa**: Configure seu ambiente de trabalho. Consulte no grupo qualquer dúvida ou dificuldade. Mandar um print que utilize o modo interativo ou Modo edição com diversos comandos.
 
 
 ------------
 
 ### Semana 2 - 23/10 a 30/10
 **Assistir:**
-
+6. [TWP100 Condições](https://youtu.be/vyRXFoZEaJw)
+7. [TWP110 Else](https://youtu.be/wuX0ImNSWWQ "TWP110 Else")
+8. [TWP120 Estruturas aninhadas](https://youtu.be/noGG5WgVdoE "TWP120 Estruturas aninhadas")
+9. [WP130 elif](https://youtu.be/pjOJYIzvh3w "WP130 elif")
 
 
