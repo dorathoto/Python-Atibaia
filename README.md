@@ -16,8 +16,14 @@ https://www.pycursos.com/python-para-zumbis/
 ### Semana 1 - 16/10 a 23/10
  - Fazer a inscrição no site Python para zumbi,[ clique aqui](http://pingmind.com.br/dashboard/login/?next=/classes/142/enroll/ " clique aqui")
  - Entrar no grupo Python no facebook "https://www.facebook.com/groups/python.brasil/"
- 
+ - Instalar o Python3 (3.8.0) https://www.python.org/downloads/
+  
 **Assistir:**
- - TWP000 Apresentação e Motivação Python para Zumbis (https://youtu.be/6La690qlH5w/)
- - [TWP100 Condições](https://youtu.be/vyRXFoZEaJw)
+- [Seja um programador](https://youtu.be/S9uPNppGsGo "Seja um programador") 
+- [TWP000 Apresentação e Motivação Python para Zumbis](https://youtu.be/6La690qlH5w "TWP000 Apresentação e Motivação Python para Zumbis")
+- [TWP100 Condições](https://youtu.be/vyRXFoZEaJw)
+- [TWP110 Else](https://youtu.be/wuX0ImNSWWQ "TWP110 Else")
 
+**Plus:**
+- [Para que serve o Python part 2](https://youtu.be/Mp0vhMDI7fA "Mais sobre python")
+- [Instalando Python e o IDLE](https://youtu.be/VuKvR1J2LQE?t=472 "Instalando Python e o IDLE")
