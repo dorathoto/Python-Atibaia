@@ -22,7 +22,7 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 
  - Fazer a inscrição no site Python para zumbi,[ clique aqui](http://pingmind.com.br/dashboard/login/?next=/classes/142/enroll/ " clique aqui")
  - Entrar no grupo Python no facebook "https://www.facebook.com/groups/python.brasil/"
- - Instalar o Python3 (3.8.0) https://www.python.org/downloads/ Caso precise de ajuda, clique aqui(https://github.com/dorathoto/Python-Atibaia-0/wiki/Como-instalar-Python3-no-Windows)
+ - Instalar o Python3 (3.8.0) https://www.python.org/downloads/ Caso precise de ajuda, [clique aqui](https://github.com/dorathoto/Python-Atibaia-0/wiki/Como-instalar-Python3-no-Windows)
   
 **Assistir:**
 1. [Seja um programador](https://youtu.be/S9uPNppGsGo "Seja um programador") 
