@@ -27,3 +27,5 @@ https://www.pycursos.com/python-para-zumbis/
 **Plus:**
 - [Para que serve o Python part 2](https://youtu.be/Mp0vhMDI7fA "Mais sobre python")
 - [Instalando Python e o IDLE](https://youtu.be/VuKvR1J2LQE?t=472 "Instalando Python e o IDLE")
+
+**Tarefa**: Configure seu ambiente de trabalho. Consulte no grupo qualquer dúvida ou dificuldade. Escreva um programa interativo que utilize if e else, poste o print no grupo.
