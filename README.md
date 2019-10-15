@@ -8,7 +8,9 @@ Também iremos praticar o **Coding Dojo** (Saiba mais sobre coding dojo [aqui1](
 OBS: O site não é responsívo, então utilize pelo computador:
 https://www.pycursos.com/python-para-zumbis/
 
-**IDE:** Ide são editores de texto, para facilitar a programação do dia a dia, existem centenas, cada uma com seus pontos positivos e negativos, para esse curso iremos utilizar o do próprio Python, para saber o real motivo dessa escolha [clique aqui.](# "clique aqui.")
+**IDE:** Ide são editores de texto, para facilitar a programação do dia a dia, existem centenas, cada uma com seus pontos positivos e negativos, para esse curso iremos utilizar o do próprio Python, para saber o real motivo dessa escolha [clique aqui.](https://github.com/dorathoto/Python-Atibaia-0/wiki/Qual-Ide%3F "clique aqui.")
+
+😊  Acompanhe seu andamento, [clique aqui](https://docs.google.com/spreadsheets/d/1WVIZw3rmagHS-F-5tFaSAvYS1p5AfoYbCqy8HVFKa38/edit?usp=sharing "clique aqui")
 
 ------------
 
