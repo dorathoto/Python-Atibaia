@@ -16,18 +16,31 @@ https://www.pycursos.com/python-para-zumbis/
 
 
 ### Semana 1 - 16/10 a 23/10
+> Objetivo: Configurar ambiente e entender if/else/elif
+
  - Fazer a inscrição no site Python para zumbi,[ clique aqui](http://pingmind.com.br/dashboard/login/?next=/classes/142/enroll/ " clique aqui")
  - Entrar no grupo Python no facebook "https://www.facebook.com/groups/python.brasil/"
  - Instalar o Python3 (3.8.0) https://www.python.org/downloads/
   
 **Assistir:**
-- [Seja um programador](https://youtu.be/S9uPNppGsGo "Seja um programador") 
-- [TWP000 Apresentação e Motivação Python para Zumbis](https://youtu.be/6La690qlH5w "TWP000 Apresentação e Motivação Python para Zumbis")
-- [TWP100 Condições](https://youtu.be/vyRXFoZEaJw)
-- [TWP110 Else](https://youtu.be/wuX0ImNSWWQ "TWP110 Else")
+1. [Seja um programador](https://youtu.be/S9uPNppGsGo "Seja um programador") 
+2. [TWP000 Apresentação e Motivação Python para Zumbis](https://youtu.be/6La690qlH5w "TWP000 Apresentação e Motivação Python para Zumbis")
+3. [TWP100 Condições](https://youtu.be/vyRXFoZEaJw)
+4. [TWP110 Else](https://youtu.be/wuX0ImNSWWQ "TWP110 Else")
+5. [TWP120 Estruturas aninhadas](https://youtu.be/noGG5WgVdoE "TWP120 Estruturas aninhadas")
+6. [WP130 elif](https://youtu.be/pjOJYIzvh3w "WP130 elif")
 
 **Plus:**
 - [Para que serve o Python part 2](https://youtu.be/Mp0vhMDI7fA "Mais sobre python")
 - [Instalando Python e o IDLE](https://youtu.be/VuKvR1J2LQE?t=472 "Instalando Python e o IDLE")
 
 **Tarefa**: Configure seu ambiente de trabalho. Consulte no grupo qualquer dúvida ou dificuldade. Escreva um programa interativo que utilize if e else, poste o print no grupo.
+
+
+------------
+
+### Semana 2 - 23/10 a 30/10
+**Assistir:**
+
+
+
