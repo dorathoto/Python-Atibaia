@@ -45,13 +45,24 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 ------------
 
 ### Semana 2 - 23/10 a 30/10
-> Objetivo: if/else/elif
+> Objetivo: input if/else/elif
 
 **Assistir:**
+1. [TWP060 ](https://youtu.be/Bogfujj2jtk)  3'
+2. [TWP053 Entrada de Dados](https://youtu.be/mubJU5dHyP8)  3'
+3. [TWP100 Condições](https://youtu.be/vyRXFoZEaJw) 5'
+4. [TWP110 Else](https://youtu.be/wuX0ImNSWWQ "TWP110 Else")    5'
+5. [TWP120 Estruturas aninhadas](https://youtu.be/noGG5WgVdoE "TWP120 Estruturas aninhadas")    4'
+6. [TWP130 Maior três inteiros](https://youtu.be/ZOIdBqOdBQA)   3'
+7. [WP130 elif](https://youtu.be/pjOJYIzvh3w "WP130 elif")  4'
+8. [Operadores matemáticos](http://excript.com/python/operador-aritmetico-em-python.html)
 
-1. [TWP100 Condições](https://youtu.be/vyRXFoZEaJw)
-2. [TWP110 Else](https://youtu.be/wuX0ImNSWWQ "TWP110 Else")
-3. [TWP120 Estruturas aninhadas](https://youtu.be/noGG5WgVdoE "TWP120 Estruturas aninhadas")
-4. [WP130 elif](https://youtu.be/pjOJYIzvh3w "WP130 elif")
+**Plus:**
+- [IF else](http://excript.com/python/if-else-python.html)
 
-
+- [Mód. da divisão, resto](http://excript.com/python/modulo-da-divisao-python.html)
+- [Operadores de condição](http://excript.com/python/operador-relacional-python.html)
+  
+**Tarefa**: Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cda 4m² e que a tinta é vendida em latas de 18L, que custa R$ 180,00. Informe ao usuário a quantidade de latas de tintas a serem compradas e o preço total.
+**Dica¹:**Divida o problema por partes, primeiro pergunte ao usuário quantos m², depois verifique o rendimento (area informada dividido pelo rendimento da tinta) depois veja quantos litros irá utilizar, sabendo qtd. de litos veja quantas latas de tintas são necessárias e depois o valor.
+**OBS:** O problema correto, seria imaginar que só são vendidos qtd. de latas inteiras.
