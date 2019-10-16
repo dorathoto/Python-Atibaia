@@ -18,7 +18,7 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 
 
 ### Semana 1 - 16/10 a 23/10
-> Objetivo: Configurar ambiente e entender if/else/elif
+> Objetivo: Configurar ambiente e variaveis
 
  - Fazer a inscrição no site Python para zumbi,[ clique aqui](http://pingmind.com.br/dashboard/login/?next=/classes/142/enroll/ " clique aqui")
  - Entrar no grupo Python no facebook "https://www.facebook.com/groups/python.brasil/"
@@ -45,6 +45,8 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 ------------
 
 ### Semana 2 - 23/10 a 30/10
+> Objetivo: if/else/elif
+
 **Assistir:**
 
 1. [TWP100 Condições](https://youtu.be/vyRXFoZEaJw)
