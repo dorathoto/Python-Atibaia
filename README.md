@@ -14,7 +14,7 @@ https://www.pycursos.com/python-para-zumbis/
 
 Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de expandir o conhecimento ou ajudar em alguma duvida que possa surgir nos vídeos base.
 
-------------
+------------------------------------
 
 
 ### Semana 1 - 16/10 a 23/10
@@ -46,9 +46,10 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 
 ### Semana 2 - 23/10 a 30/10
 **Assistir:**
-6. [TWP100 Condições](https://youtu.be/vyRXFoZEaJw)
-7. [TWP110 Else](https://youtu.be/wuX0ImNSWWQ "TWP110 Else")
-8. [TWP120 Estruturas aninhadas](https://youtu.be/noGG5WgVdoE "TWP120 Estruturas aninhadas")
-9. [WP130 elif](https://youtu.be/pjOJYIzvh3w "WP130 elif")
+
+1. [TWP100 Condições](https://youtu.be/vyRXFoZEaJw)
+2. [TWP110 Else](https://youtu.be/wuX0ImNSWWQ "TWP110 Else")
+3. [TWP120 Estruturas aninhadas](https://youtu.be/noGG5WgVdoE "TWP120 Estruturas aninhadas")
+4. [WP130 elif](https://youtu.be/pjOJYIzvh3w "WP130 elif")
 
 
