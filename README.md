@@ -56,6 +56,8 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 6. [TWP130 Maior três inteiros](https://youtu.be/ZOIdBqOdBQA)   3'
 7. [WP130 elif](https://youtu.be/pjOJYIzvh3w "WP130 elif")  4'
 8. [Operadores matemáticos](http://excript.com/python/operador-aritmetico-em-python.html)
+9. [blocos de instrução part. I](https://youtu.be/mMKAcqTvyZQ)
+10. [blocos de instrução part. II](https://youtu.be/d4BoA-KGXog)
 
 **Plus:**
 - [IF else](http://excript.com/python/if-else-python.html)
