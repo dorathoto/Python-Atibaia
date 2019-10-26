@@ -15,6 +15,32 @@ https://www.pycursos.com/python-para-zumbis/
 Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de expandir o conhecimento ou ajudar em alguma duvida que possa surgir nos vídeos base.
 
 ------------------------------------
+### Semana 2 - 23/10 a 30/10
+> Objetivo: input if/else/elif
+
+**Assistir:**
+1. [TWP060 ](https://youtu.be/Bogfujj2jtk)  3'
+2. [TWP053 Entrada de Dados](https://youtu.be/mubJU5dHyP8)  3'
+3. [TWP100 Condições](https://youtu.be/vyRXFoZEaJw) 5'
+4. [TWP110 Else](https://youtu.be/wuX0ImNSWWQ "TWP110 Else")    5'
+5. [TWP120 Estruturas aninhadas](https://youtu.be/noGG5WgVdoE "TWP120 Estruturas aninhadas")    4'
+6. [TWP130 Maior três inteiros](https://youtu.be/ZOIdBqOdBQA)   3'
+7. [WP130 elif](https://youtu.be/pjOJYIzvh3w "WP130 elif")  4'
+8. [Operadores matemáticos](http://excript.com/python/operador-aritmetico-em-python.html)
+9. [blocos de instrução part. I](https://youtu.be/mMKAcqTvyZQ)
+10. [blocos de instrução part. II](https://youtu.be/d4BoA-KGXog)
+
+**Plus:**
+- [IF else](http://excript.com/python/if-else-python.html)
+
+- [Mód. da divisão, resto](http://excript.com/python/modulo-da-divisao-python.html)
+- [Operadores de condição](http://excript.com/python/operador-relacional-python.html)
+  
+**Tarefa**: Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cda 4m² e que a tinta é vendida em latas de 18L, que custa R$ 180,00. Informe ao usuário a quantidade de latas de tintas a serem compradas e o preço total.
+**Dica¹:**Divida o problema por partes, primeiro pergunte ao usuário quantos m², depois verifique o rendimento (area informada dividido pelo rendimento da tinta) depois veja quantos litros irá utilizar, sabendo qtd. de litos veja quantas latas de tintas são necessárias e depois o valor.
+**OBS:** O problema correto, seria imaginar que só são vendidos qtd. de latas inteiras.
+
+
 
 
 ### Semana 1 - 16/10 a 23/10
@@ -44,27 +70,31 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 
 ------------
 
-### Semana 2 - 23/10 a 30/10
-> Objetivo: input if/else/elif
+
+
+### Semana 3 - 30/10 a 06/11
+> Objetivo: laços repetição
 
 **Assistir:**
-1. [TWP060 ](https://youtu.be/Bogfujj2jtk)  3'
-2. [TWP053 Entrada de Dados](https://youtu.be/mubJU5dHyP8)  3'
-3. [TWP100 Condições](https://youtu.be/vyRXFoZEaJw) 5'
-4. [TWP110 Else](https://youtu.be/wuX0ImNSWWQ "TWP110 Else")    5'
-5. [TWP120 Estruturas aninhadas](https://youtu.be/noGG5WgVdoE "TWP120 Estruturas aninhadas")    4'
-6. [TWP130 Maior três inteiros](https://youtu.be/ZOIdBqOdBQA)   3'
-7. [WP130 elif](https://youtu.be/pjOJYIzvh3w "WP130 elif")  4'
-8. [Operadores matemáticos](http://excript.com/python/operador-aritmetico-em-python.html)
-9. [blocos de instrução part. I](https://youtu.be/mMKAcqTvyZQ)
-10. [blocos de instrução part. II](https://youtu.be/d4BoA-KGXog)
+1. [TWP200 Repetições](https://youtu.be/ef9LpwS-UHk)  5'
+2. [TWP210 Inteiros até um fim](https://youtu.be/w_1WhWzCnhk)  1'
+3. [TWP220 Pares com módulo](https://youtu.be/a8uN4Sxxih4) 1'
+4. [TWP230 Acumuladores](https://youtu.be/bnUiJhfgzHk) 4'
+5. [TWP240 Média de 10 números inteiros](https://youtu.be/1i9w5Sbuylc) 2'
+6. [TWP250 Fatorial e Break](https://youtu.be/viLE8vc9XH8) 4'
+7. [TWP260 Repetições aninhadas](https://youtu.be/HmS66jBu_po) 2'
+8. [for, ler texto e video](http://excript.com/python/for-loop-python.html)
+9. [for.range , texto e video](https://www.youtube.com/watch?v=hHYeu-pO7Nk)
 
 **Plus:**
-- [IF else](http://excript.com/python/if-else-python.html)
+- Fibonacci: https://youtu.be/7hfRJPKOlo8, assista, tente fazer antes dele, depois veja como ele fez, faça igual, execute com números grandes.
+- .format https://youtu.be/FNqdV5Zb_5Q e [esse link](https://pt.stackoverflow.com/questions/225498/formatando-strings-com-format-e)
+- ver e tentar resolver 1 exercicio de: https://wiki.python.org.br/EstruturaDeRepeticao
 
-- [Mód. da divisão, resto](http://excript.com/python/modulo-da-divisao-python.html)
-- [Operadores de condição](http://excript.com/python/operador-relacional-python.html)
-  
-**Tarefa**: Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cda 4m² e que a tinta é vendida em latas de 18L, que custa R$ 180,00. Informe ao usuário a quantidade de latas de tintas a serem compradas e o preço total.
-**Dica¹:**Divida o problema por partes, primeiro pergunte ao usuário quantos m², depois verifique o rendimento (area informada dividido pelo rendimento da tinta) depois veja quantos litros irá utilizar, sabendo qtd. de litos veja quantas latas de tintas são necessárias e depois o valor.
-**OBS:** O problema correto, seria imaginar que só são vendidos qtd. de latas inteiras.
+**Tarefa**: Pedir ao usuário um número e mostrar a tabuada de  a 1 a 10 desse número. ex:
+
+    Tabuada de 5:
+    5 X 1 = 5
+    5 X 2 = 10
+    ...
+    5 X 10 = 50
