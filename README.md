@@ -73,7 +73,7 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 
 
 ### Semana 3 - 30/10 a 06/11
-> Objetivo: laços repetição
+> Objetivo: laços repetição e tratamento de strings
 
 **Assistir:**
 1. [TWP200 Repetições](https://youtu.be/ef9LpwS-UHk)  5'
