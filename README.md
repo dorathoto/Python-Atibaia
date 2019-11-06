@@ -16,6 +16,27 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 
 ------------------------------------
 
+### Semana 4 - 6/11 a 13/11
+> Objetivo: listas, coleções
+
+**Assistir:**
+1. [Estruturas de Dados - Listas](https://youtu.be/smqY-ljrrUQ "Estruturas de Dados - Listas") 6'
+2. [TWP270 Listas](https://youtu.be/IKbN7PnFqTQ "TWP270 Listas") 6'
+3. [TWP271 Média de 5 notas](https://youtu.be/5fnldRu9D8I "TWP271 Média de 5 notas") 2'
+4. [TWP272 Ler um vetor](https://youtu.be/n4wutespgbM "TWP272 Ler um vetor") 2'
+5. [TWP273 Vetor na ordem inversa](https://youtu.be/_ezpAhoU5B4 "TWP273 Vetor na ordem inversa") 1'
+6. [TWP274 Média de quatro notas](https://youtu.be/f0tF-EIl3Mk "TWP274 Média de quatro notas") 2'
+7. [TWP275 Contar consoantes](https://youtu.be/tO8CsxgBn1g "TWP275 Contar consoantes") 3'
+8. [Lista, Pilha, Array, Set](https://youtu.be/W0j2fcL2Qi4 "Lista, Pilha, Array, Set") 15'
+
+**Plus:**
+- [Par ou Ímpar ](https://youtu.be/4vFCzKuHOn4)
+- [Cores no Terminal](https://youtu.be/0hBIhkcA8O8?t=196)
+
+**Tarefa**: 
+Fazer um programa com listas e mandar o print;
+
+
 ### Semana 3 - 30/10 a 06/11
 > Objetivo: laços repetição
 
@@ -98,21 +119,3 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 
 ------------
 
-### Semana 4 - 6/11 a 13/11
-> Objetivo: listas, coleções
-
-**Assistir:**
-1. [Estruturas de Dados - Listas](https://youtu.be/smqY-ljrrUQ "Estruturas de Dados - Listas") 6'
-2. [TWP270 Listas](https://youtu.be/IKbN7PnFqTQ "TWP270 Listas") 6'
-3. [TWP271 Média de 5 notas](https://youtu.be/5fnldRu9D8I "TWP271 Média de 5 notas") 2'
-4. [TWP272 Ler um vetor](https://youtu.be/n4wutespgbM "TWP272 Ler um vetor") 2'
-5. [TWP273 Vetor na ordem inversa](https://youtu.be/_ezpAhoU5B4 "TWP273 Vetor na ordem inversa") 1'
-6. [TWP274 Média de quatro notas](https://youtu.be/f0tF-EIl3Mk "TWP274 Média de quatro notas") 2'
-7. [TWP275 Contar consoantes](https://youtu.be/tO8CsxgBn1g "TWP275 Contar consoantes") 3'
-8. [Lista, Pilha, Array, Set](https://youtu.be/W0j2fcL2Qi4 "Lista, Pilha, Array, Set") 15'
-
-**Plus:**
-- [Par ou Ímpar ](https://youtu.be/4vFCzKuHOn4)
-- [Cores no Terminal](https://youtu.be/0hBIhkcA8O8?t=196)
-
-**Tarefa**: 
