@@ -120,3 +120,21 @@ Fazer um programa com listas baseado no vídeo plus 081 e mandar o print;
 
 ------------
 
+### Semana 5 - 13/11 a 20/11
+> Objetivo: manipular string, funções
+
+**Assistir:**
+1. [WP280 Strings](https://youtu.be/t5sE9ruRHHM)
+2. [TWP282 Strings Palíndromes](https://youtu.be/TQkvGiwXhdQ)
+3. [TWP283 Strings são imutáveis](https://youtu.be/__OGe-uUBmg)
+4. [TWP285 String Métodos](https://youtu.be/OInhmFfmNXE)
+5. [TWP286 Strings Exercício Mês por Extenso](https://youtu.be/zOp-YBp3yzI)
+6. [TWP290 For é um While Enrustido](https://youtu.be/SWz-TDaVOjU)
+7. [TWP292 Funções](https://youtu.be/hkmTg3ambZA)
+8. [TWP293 Fatorial Função e Globais vs Locais](https://youtu.be/MtTqwE7xFeA)
+
+**Plus:**
+- 
+
+**Tarefa**: 
+Fazer uma função que manipula string
