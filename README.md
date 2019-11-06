@@ -32,9 +32,10 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 **Plus:**
 - [Par ou Ímpar ](https://youtu.be/4vFCzKuHOn4)
 - [Cores no Terminal](https://youtu.be/0hBIhkcA8O8?t=196)
+- [081 - Extraindo dados de uma Lista](https://youtu.be/SXJKAVVlvGA)
 
 **Tarefa**: 
-Fazer um programa com listas e mandar o print;
+Fazer um programa com listas baseado no vídeo plus 081 e mandar o print;
 
 
 ### Semana 3 - 30/10 a 06/11
