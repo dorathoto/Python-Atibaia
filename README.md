@@ -19,15 +19,13 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 > Objetivo: módulos, Read/Write file
 
 **Assistir:**
- 1.  [revisão] [TWP293 Fatorial Função e Globais vs Locais](https://youtu.be/MtTqwE7xFeA "TWP293 Fatorial Função e Globais vs Locais")
- 1. [TWP295 Módulo Random](https://youtu.be/lkF7fwwdn74 "TWP295 Módulo Random")
- 1.  [TWP296 Embaralha](https://youtu.be/nWgRu1S0T4s "TWP296 Embaralha")
- 1. [TWP297 Gere uma lista de 15 inteiros aleatórios](https://youtu.be/HhwANFfzIMk "TWP297 Gere uma lista de 15 inteiros aleatórios")
- 1.  [TWP298 Gere uma lista de 15 aleatórios distintos](https://youtu.be/m-JiN6pMY34 "TWP298 Gere uma lista de 15 aleatórios distintos")
- 1. [**PLUS**] [TWP300 Lista de exerício V](https://youtu.be/-dapAyrls9o "TWP300 Lista de exerício V")
- 1.  [**PLUS**] [TWP301 App menina doze anos ](https://youtu.be/EetzrvvQIKQ "TWP301 ")
- ------------
-
+1.  [revisão] [TWP293 Fatorial Função e Globais vs Locais](https://youtu.be/MtTqwE7xFeA "TWP293 Fatorial Função e Globais vs Locais")
+1. [TWP295 Módulo Random](https://youtu.be/lkF7fwwdn74 "TWP295 Módulo Random")
+1.  [TWP296 Embaralha](https://youtu.be/nWgRu1S0T4s "TWP296 Embaralha")
+1. [TWP297 Gere uma lista de 15 inteiros aleatórios](https://youtu.be/HhwANFfzIMk "TWP297 Gere uma lista de 15 inteiros aleatórios")
+1.  [TWP298 Gere uma lista de 15 aleatórios distintos](https://youtu.be/m-JiN6pMY34 "TWP298 Gere uma lista de 15 aleatórios distintos")
+1. [**PLUS**] [TWP300 Lista de exerício V](https://youtu.be/-dapAyrls9o "TWP300 Lista de exerício V")
+1.  [**PLUS**] [TWP301 App menina doze anos ](https://youtu.be/EetzrvvQIKQ "TWP301 ")
 1. [TWP310 Arquivos](https://youtu.be/C9_DTR1lCIs "TWP310 Arquivos")
 1. [TWP315 Arquivos cont](https://youtu.be/5z6zqyeLxjg "TWP315 Arquivos cont")
 1. [TWP320 Arquivos Python Way](https://youtu.be/iy6lC_n-C8Y "TWP320 Arquivos Python Way")
