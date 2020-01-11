@@ -14,6 +14,28 @@ https://www.pycursos.com/python-para-zumbis/
 
 Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de expandir o conhecimento ou ajudar em alguma duvida que possa surgir nos vídeos base.
 
+### Semana 7 - 11/01/2020 a 18/01/2020
+> Objetivo: Coleções - dicionário
+
+1. [TWP340 Dicionários](https://youtu.be/ZhDQIL5bgEU)
+1. [TWP345 Word Count with Dictionaries](https://youtu.be/vvfc3BAbmo0 "TWP345 Word Count with Dictionaries")
+Link do texto Alice, [clique aqui](http://www.gutenberg.org/cache/epub/11/pg11.txt.utf8.gzip "Link do texto Alice")
+------- vá tomar um café, p/ próx. assunto ---
+1. [TWP350 Classes e Objetos](https://youtu.be/Zr_FiKbgRbU "TWP350 Classes e Objetos")
+1. [TWP352 Banco Tatú conta sem extrato](https://youtu.be/3MTDybCeMQE "TWP352 Banco Tatú conta sem extrato")
+1. [TWP353 Banco Tatú com extrato](https://youtu.be/d34q8zBje0I "TWP353 Banco Tatú com extrato")
+
+**Arquivos de apoio:**
+- [tatu.py](tatu.py "tatu.py")
+- [tatuCompleto.py](tatuCompleto.py "tatuCompleto.py")
+- [pessoa.py](pessoa.py "pessoa.py")
+
+**Plus**
+- [Dicionário by Guanabara](https://youtu.be/ZWj8o692qGY?t=166 "Dicionário by Guanabara") 45"
+
+**Tarefa**
+O paradigma OO é complexo, costuma-se demorar anos para entender profundamente essas diferenças, a tarefa é fazer testes com a classe e caso queira sinta-se a vontade de criar uma nova classe.
+
 ------------------------------------
 ### Semana 6 - 02/01/2020 a 10/01/2020 - Em ritmo de férias.
 > Objetivo: módulos, Read/Write file
