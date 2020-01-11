@@ -20,6 +20,7 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 1. [TWP340 Dicionários](https://youtu.be/ZhDQIL5bgEU)
 1. [TWP345 Word Count with Dictionaries](https://youtu.be/vvfc3BAbmo0 "TWP345 Word Count with Dictionaries")
 Link do texto Alice, [clique aqui](http://www.gutenberg.org/cache/epub/11/pg11.txt.utf8.gzip "Link do texto Alice")
+
 ------- vá tomar um café, p/ próx. assunto ---
 1. [TWP350 Classes e Objetos](https://youtu.be/Zr_FiKbgRbU "TWP350 Classes e Objetos")
 1. [TWP352 Banco Tatú conta sem extrato](https://youtu.be/3MTDybCeMQE "TWP352 Banco Tatú conta sem extrato")
