@@ -193,7 +193,7 @@ Link do texto Alice, [clique aqui](http://www.gutenberg.org/cache/epub/11/pg11.t
 1. [TWP353 Banco Tatú com extrato](https://youtu.be/d34q8zBje0I "TWP353 Banco Tatú com extrato")
 
 **Arquivos de apoio:**
-- [tatu.py](tatu.py "tatu.py")
+- [tatu.py](/blob/master/Outros/tatu.py "tatu.py")
 - [tatuCompleto.py](tatuCompleto.py "tatuCompleto.py")
 - [pessoa.py](pessoa.py "pessoa.py")
 
