@@ -1,6 +1,6 @@
-'''
+"""
 Exercício semana 2
-'''
+"""
 
 rendLata = 4  # m2
 custoLata = 180.00
