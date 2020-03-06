@@ -1,4 +1,12 @@
-## Bem vindo ao grupo Python Atibaia Univesp
+
+# Bem vindo ao grupo Python Atibaia Univesp
+
+[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-37%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/G6KSQ0wUSKDKXXfBMJweLU "Abrir grupo WhatApp") 
+![](https://img.shields.io/badge/SemanaAtual-1-yellow.svg) 
+![](https://img.shields.io/badge/Linguagem-Python-orange.svg)
+
+Como todo bom engenheiro devemos saber programação. E o conhecimento em Python ajudará muito a entender sobre programação.
+
 
 Esse grupo tem como objetivo aprender Python. Utilizaremos diversos cursos onlines, onde cada aluno deverá fazer a leitura da semana, assistir os vídeos e postar o print no grupo Whatsapp.
 Caso tenha dúvidas só postar no grupo que alguém poderá ajudar.
