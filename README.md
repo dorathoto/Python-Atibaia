@@ -1,15 +1,7 @@
-
 # Bem vindo ao grupo Python Atibaia Univesp
 
 
-
-[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-37%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/G6KSQ0wUSKDKXXfBMJweLU  "Abrir grupo WhatApp")
-
-
-![](https://img.shields.io/badge/SemanaAtual-2-yellow.svg)
-
-
-![](https://img.shields.io/badge/Linguagem-Python-orange.svg)
+[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-36%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/G6KSQ0wUSKDKXXfBMJweLU  "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-1-yellow.svg) ![](https://img.shields.io/badge/Linguagem-Python-orange.svg)
 
 Como todo bom engenheiro devemos saber programação. E o conhecimento em Python ajudará muito a entender sobre programação.
 
@@ -29,24 +21,48 @@ Também iremos praticar o **Coding Dojo** Saiba mais sobre coding dojo [ Aqui 1]
 
   
 
-  
-
 **IDE:** Ide são editores de texto, para facilitar a programação do dia a dia, existem centenas, cada uma com seus pontos positivos e negativos, para esse curso iremos utilizar o do próprio Python, para saber o real motivo dessa escolha [clique aqui.](https://github.com/dorathoto/Python-Atibaia-0/wiki/Qual-Ide%3F  "clique aqui.")
 
-  
-
-  
 
 😊 Acompanhe seu andamento, [clique aqui](https://docs.google.com/spreadsheets/d/1WVIZw3rmagHS-F-5tFaSAvYS1p5AfoYbCqy8HVFKa38/edit?usp=sharing  "clique aqui")
 
-  
-
-  
 
 Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de expandir o conhecimento ou ajudar em alguma duvida que possa surgir nos vídeos base.
 
-
+# Atenção se tiver link's quebrados informar no Whatsapp
   
+### Semana 1 - ??/?? a ??/??
+
+
+> Objetivo: Configurar ambiente e variaveis
+
+- Fazer a inscrição no site Python para zumbi,[ clique aqui](http://pingmind.com.br/dashboard/login/?next=/classes/142/enroll/  " clique aqui")
+
+- Entrar no grupo Python no facebook "https://www.facebook.com/groups/python.brasil/"
+
+- Instalar o Python3 (3.8.0) https://www.python.org/downloads/ Caso precise de ajuda, [clique aqui](https://github.com/dorathoto/Python-Atibaia-0/wiki/Como-instalar-Python3-no-Windows)
+
+
+**Assistir:**
+
+1. [Seja um programador](https://youtu.be/S9uPNppGsGo  "Seja um programador")
+2. [TWP000 Apresentação e Motivação Python para Zumbis](https://youtu.be/Qypncy2QwB8  "TWP000 Apresentação e Motivação Python para Zumbis")
+3. [TWP010 Hello World Interativo](https://youtu.be/8w3uae_K5TA)
+4. [TWP020 Variáveis e modo edição](https://youtu.be/a4peYUyUTXs)
+5. [TWP030 Operadores relacionais e lógicos](https://youtu.be/iQbs49GJxfc)
+6. [TWP040 Marcadores](https://youtu.be/pDi5VtF9TfA)
+7. [TWP050 dinâmica, forte e múltipla](https://youtu.be/qzsdCWGoGgc)
+8. [TWP052 Teste de Mesa ou Simulação](https://youtu.be/-LLDukM6704)
+
+**Plus:**
+
+-  [Para que serve o Python part 2](https://youtu.be/Mp0vhMDI7fA  "Mais sobre python")
+-  [Instalando Python e o IDLE](https://youtu.be/VuKvR1J2LQE?t=472  "Instalando Python e o IDLE")
+  
+
+**Tarefa**: Configure seu ambiente de trabalho. Consulte no grupo qualquer dúvida ou dificuldade. Mandar um print que utilize o modo interativo ou Modo edição com diversos comandos.
+
+------------------------------------
 
 ### Semana 2 - 13/03 a 19/03
 
@@ -54,7 +70,6 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
   
 
 **Assistir:**
-
   
 1.  [TWP060 ](https://youtu.be/TA90-DZwd2U) 3'
 2.  [TWP053 Entrada de Dados](https://youtu.be/vF-IIr1cskA) 3'
@@ -82,25 +97,14 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 **OBS:** O problema correto, seria imaginar que só são vendidos qtd. de latas inteiras.
 
 
-------------------------------------
 
-  
-
-  
 
 ### Semana 3 - 19/03 a 25/03
 
-  
-
 > Objetivo: laços repetição
 
-  
-
-  
 
 **Assistir:**
-
-  
 
 1.  [TWP200 Repetições](https://youtu.be/cGUTHzIXc0Q) 5'
 2.  [TWP210 Inteiros até um fim](https://youtu.be/u5_jVfX2A_s) 1'
@@ -114,7 +118,6 @@ Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de 
 
 
 **Plus:**
-
 
 - Fibonacci: https://youtu.be/7hfRJPKOlo8, assista, tente fazer antes dele, depois veja como ele fez, faça igual, execute com números grandes.
 - .format https://youtu.be/FNqdV5Zb_5Q e [esse link](https://pt.stackoverflow.com/questions/225498/formatando-strings-com-format-e)
@@ -138,85 +141,33 @@ Tabuada de 5:
 
 ### Semana 4 - 25/03 a 30/03
 
-  
-
 > Objetivo: listas, coleções
 
-  
 
-  
 
 **Assistir:**
 
-  
 
 1.  [Estruturas de Dados - Listas](https://youtu.be/smqY-ljrrUQ  "Estruturas de Dados - Listas") 6'
-
-  
-
 2.  [TWP270 Listas](https://youtu.be/IKbN7PnFqTQ  "TWP270 Listas") 6'
-
-  
-
 3.  [TWP271 Média de 5 notas](https://youtu.be/5fnldRu9D8I  "TWP271 Média de 5 notas") 2'
-
-  
-
 4.  [TWP272 Ler um vetor](https://youtu.be/n4wutespgbM  "TWP272 Ler um vetor") 2'
-
-  
-
 5.  [TWP273 Vetor na ordem inversa](https://youtu.be/_ezpAhoU5B4  "TWP273 Vetor na ordem inversa") 1'
-
-  
-
 6.  [TWP274 Média de quatro notas](https://youtu.be/f0tF-EIl3Mk  "TWP274 Média de quatro notas") 2'
-
-  
-
 7.  [TWP275 Contar consoantes](https://youtu.be/tO8CsxgBn1g  "TWP275 Contar consoantes") 3'
-
-  
-
 8.  [Lista, Pilha, Array, Set](https://youtu.be/W0j2fcL2Qi4  "Lista, Pilha, Array, Set") 15'
 
-  
-
-  
-
 **Plus:**
-
-  
-
 -  [Par ou Ímpar ](https://youtu.be/4vFCzKuHOn4)
-
-  
-
 -  [Cores no Terminal](https://youtu.be/0hBIhkcA8O8?t=196)
-
-  
-
 -  [081 - Extraindo dados de uma Lista](https://youtu.be/SXJKAVVlvGA)
-
-  
-
-  
 
 **Tarefa**:
 
-  
-
 Fazer um programa com listas baseado no vídeo plus 081 e mandar o print;
-
-  
-
-  
+ 
 
 ------------------------------------
-
-  
-
-  
 
 ### Semana 5 - 30/03 a 06/04
 
@@ -224,189 +175,89 @@ Fazer um programa com listas baseado no vídeo plus 081 e mandar o print;
 
 > Objetivo: manipular string, funções
 
-  
-
-  
 
 **Assistir:**
 
   
 
 1.  [WP280 Strings](https://youtu.be/t5sE9ruRHHM)
-
-  
-
 2.  [TWP282 Strings Palíndromes](https://youtu.be/TQkvGiwXhdQ)
-
-  
-
 3.  [TWP283 Strings são imutáveis](https://youtu.be/__OGe-uUBmg)
-
-  
-
 4.  [TWP285 String Métodos](https://youtu.be/OInhmFfmNXE)
-
-  
-
 5.  [TWP286 Strings Exercício Mês por Extenso](https://youtu.be/zOp-YBp3yzI)
-
-  
-
 6.  [TWP290 For é um While Enrustido](https://youtu.be/SWz-TDaVOjU)
-
-  
-
 7.  [TWP292 Funções](https://youtu.be/hkmTg3ambZA)
-
-  
-
 8.  [TWP293 Fatorial Função e Globais vs Locais](https://youtu.be/MtTqwE7xFeA)
-
-  
-
-  
 
 **Plus:**
 
-  
-
 -
 
-  
-
-  
-
 **Tarefa**:
-
-  
 
 Fazer uma função que manipula string
 
-  
-
-  
 
 ------------------------------------
 
-  
 
 ### Semana 6 - 06/04/2020 a 12/04/2020
 
-  
-
 > Objetivo: módulos, Read/Write file
-
-  
-
-  
 
 **Assistir:**
 
-  
 
 1.  [revisão]  [TWP293 Fatorial Função e Globais vs Locais](https://youtu.be/MtTqwE7xFeA  "TWP293 Fatorial Função e Globais vs Locais")
-
-  
-
 1.  [TWP295 Módulo Random](https://youtu.be/lkF7fwwdn74  "TWP295 Módulo Random")
-
-  
-
 1.  [TWP296 Embaralha](https://youtu.be/nWgRu1S0T4s  "TWP296 Embaralha")
-
-  
-
 1.  [TWP297 Gere uma lista de 15 inteiros aleatórios](https://youtu.be/HhwANFfzIMk  "TWP297 Gere uma lista de 15 inteiros aleatórios")
-
-  
-
 1.  [TWP298 Gere uma lista de 15 aleatórios distintos](https://youtu.be/m-JiN6pMY34  "TWP298 Gere uma lista de 15 aleatórios distintos")
-
-  
-
 1.  [**PLUS**]  [TWP301 App menina doze anos ](https://youtu.be/EetzrvvQIKQ  "TWP301 ")
-
-  
-
 1.  [TWP310 Arquivos](https://youtu.be/C9_DTR1lCIs  "TWP310 Arquivos")
-
-  
-
 1.  [TWP315 Arquivos cont](https://youtu.be/5z6zqyeLxjg  "TWP315 Arquivos cont")
-
-  
-
 1.  [TWP320 Arquivos Python Way](https://youtu.be/iy6lC_n-C8Y  "TWP320 Arquivos Python Way")
-
-  
-
 1.  [TWP325 Pseudo Cripto](https://youtu.be/8LPKBWfGgEM  "TWP325 Pseudo Cripto")
-
-  
-
 1.  [TWP330 Validação Endereço IP](https://youtu.be/6Bez4QcGtak  "TWP330 Validação Endereço IP")
-
-  
-
-  
 
 **Tarefa**:
 
-  
 
 Fazer um app que faça uma lista de algo aleatório e salve em um arquivo semana6.txt, poste o print do código + app.
 
-  
-
-  
 
 ------------------------------------
 
-  
-
-  
-
 ### Semana 7 - 13/04/2020 a 24/04/2020
 
-  
 
 > Objetivo: Coleções - dicionário
 
-  
-
-  
 
 1.  [TWP340 Dicionários](https://youtu.be/ZhDQIL5bgEU)
 
-  
 
 1.  [TWP345 Word Count with Dictionaries](https://youtu.be/vvfc3BAbmo0  "TWP345 Word Count with Dictionaries")
 
-  
+
 
 Link do texto Alice, [clique aqui](http://www.gutenberg.org/cache/epub/11/pg11.txt.utf8.gzip  "Link do texto Alice")
 
-  
 
-  
 
 ------- vá tomar um café, p/ próx. assunto ---
 
-  
+
 
 1.  [TWP350 Classes e Objetos](https://youtu.be/Zr_FiKbgRbU  "TWP350 Classes e Objetos")
 
-  
 
 1.  [TWP352 Banco Tatú conta sem extrato](https://youtu.be/3MTDybCeMQE  "TWP352 Banco Tatú conta sem extrato")
 
-  
 
 1.  [TWP353 Banco Tatú com extrato](https://youtu.be/d34q8zBje0I  "TWP353 Banco Tatú com extrato")
 
-  
 
-  
 
 **Arquivos de apoio:**
 
@@ -447,49 +298,6 @@ O paradigma OO é complexo, costuma-se demorar anos para entender profundamente 
 --------------------------
 
   
-
-### Semana 1 - 06/03 a 13/03
-
-  
-
-> Objetivo: Configurar ambiente e variaveis
-
-  
-
-  
-
-- Fazer a inscrição no site Python para zumbi,[ clique aqui](http://pingmind.com.br/dashboard/login/?next=/classes/142/enroll/  " clique aqui")
-
-  
-
-- Entrar no grupo Python no facebook "https://www.facebook.com/groups/python.brasil/"
-
-  
-
-- Instalar o Python3 (3.8.0) https://www.python.org/downloads/ Caso precise de ajuda, [clique aqui](https://github.com/dorathoto/Python-Atibaia-0/wiki/Como-instalar-Python3-no-Windows)
-
-  
-
-**Assistir:**
-
-  
-
-1.  [Seja um programador](https://youtu.be/S9uPNppGsGo  "Seja um programador")
-2.  [TWP000 Apresentação e Motivação Python para Zumbis](https://youtu.be/Qypncy2QwB8  "TWP000 Apresentação e Motivação Python para Zumbis")
-3. [TWP010 Hello World Interativo](https://youtu.be/8w3uae_K5TA)
-4. [TWP020 Variáveis e modo edição](https://youtu.be/a4peYUyUTXs)
-5.  [TWP030 Operadores relacionais e lógicos](https://youtu.be/iQbs49GJxfc)
-6.  [TWP040 Marcadores](https://youtu.be/pDi5VtF9TfA)
-7.  [TWP050 dinâmica, forte e múltipla](https://youtu.be/qzsdCWGoGgc)
-8.  [TWP052 Teste de Mesa ou Simulação](https://youtu.be/-LLDukM6704)
-
-**Plus:**
-
--  [Para que serve o Python part 2](https://youtu.be/Mp0vhMDI7fA  "Mais sobre python")
--  [Instalando Python e o IDLE](https://youtu.be/VuKvR1J2LQE?t=472  "Instalando Python e o IDLE")
-  
-
-**Tarefa**: Configure seu ambiente de trabalho. Consulte no grupo qualquer dúvida ou dificuldade. Mandar um print que utilize o modo interativo ou Modo edição com diversos comandos.
 
   
 
