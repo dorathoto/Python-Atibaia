@@ -149,12 +149,12 @@ Tabuada de 5:
 
 
 1.  [Estruturas de Dados - Listas](https://youtu.be/smqY-ljrrUQ  "Estruturas de Dados - Listas") 6'
-2.  [TWP270 Listas](https://youtu.be/IKbN7PnFqTQ  "TWP270 Listas") 6'
-3.  [TWP271 Média de 5 notas](https://youtu.be/5fnldRu9D8I  "TWP271 Média de 5 notas") 2'
-4.  [TWP272 Ler um vetor](https://youtu.be/n4wutespgbM  "TWP272 Ler um vetor") 2'
-5.  [TWP273 Vetor na ordem inversa](https://youtu.be/_ezpAhoU5B4  "TWP273 Vetor na ordem inversa") 1'
-6.  [TWP274 Média de quatro notas](https://youtu.be/f0tF-EIl3Mk  "TWP274 Média de quatro notas") 2'
-7.  [TWP275 Contar consoantes](https://youtu.be/tO8CsxgBn1g  "TWP275 Contar consoantes") 3'
+2.  [TWP270 Listas](https://youtu.be/pVnAGnH4tMs  "TWP270 Listas") 6'
+3.  [TWP271 Média de 5 notas](https://youtu.be/ZboBsXsnKEk  "TWP271 Média de 5 notas") 2'
+4.  [TWP272 Ler um vetor](https://youtu.be/YUibeMwC80Y  "TWP272 Ler um vetor") 2'
+5.  [TWP273 Vetor na ordem inversa](https://youtu.be/94ezohdM2mM  "TWP273 Vetor na ordem inversa") 1'
+6.  [TWP274 Média de quatro notas](https://youtu.be/vDsWEZZbnS4  "TWP274 Média de quatro notas") 2'
+7.  [TWP275 Contar consoantes](https://youtu.be/bhjsJpoxYwA  "TWP275 Contar consoantes") 3'
 8.  [Lista, Pilha, Array, Set](https://youtu.be/W0j2fcL2Qi4  "Lista, Pilha, Array, Set") 15'
 
 **Plus:**
@@ -180,18 +180,15 @@ Fazer um programa com listas baseado no vídeo plus 081 e mandar o print;
 
   
 
-1.  [WP280 Strings](https://youtu.be/t5sE9ruRHHM)
-2.  [TWP282 Strings Palíndromes](https://youtu.be/TQkvGiwXhdQ)
-3.  [TWP283 Strings são imutáveis](https://youtu.be/__OGe-uUBmg)
-4.  [TWP285 String Métodos](https://youtu.be/OInhmFfmNXE)
-5.  [TWP286 Strings Exercício Mês por Extenso](https://youtu.be/zOp-YBp3yzI)
-6.  [TWP290 For é um While Enrustido](https://youtu.be/SWz-TDaVOjU)
-7.  [TWP292 Funções](https://youtu.be/hkmTg3ambZA)
-8.  [TWP293 Fatorial Função e Globais vs Locais](https://youtu.be/MtTqwE7xFeA)
+1.  [TWP280 Strings](https://youtu.be/O5zgBCwJ_RA)
+2.  [TWP282 Strings Palíndromes](https://youtu.be/wzQ48dr0Nhk)
+3.  [TWP283 Strings são imutáveis](https://youtu.be/VdWwVSz_hxs)
+4.  [TWP285 String Métodos](https://youtu.be/NAspGx0AVuk)
+5.  [TWP286 Strings Exercício Mês por Extenso](https://youtu.be/zQFy9m5AI78)
+6.  [TWP290 For é um While Enrustido](https://youtu.be/iTx4M0PJIO4)
+7.  [TWP292 Funções](https://youtu.be/wFIoDWdosZU)
+8.  [TWP293 Fatorial Função e Globais vs Locais](https://youtu.be/NQrOJwNXRy8)
 
-**Plus:**
-
--
 
 **Tarefa**:
 
@@ -208,17 +205,17 @@ Fazer uma função que manipula string
 **Assistir:**
 
 
-1.  [revisão]  [TWP293 Fatorial Função e Globais vs Locais](https://youtu.be/MtTqwE7xFeA  "TWP293 Fatorial Função e Globais vs Locais")
-1.  [TWP295 Módulo Random](https://youtu.be/lkF7fwwdn74  "TWP295 Módulo Random")
-1.  [TWP296 Embaralha](https://youtu.be/nWgRu1S0T4s  "TWP296 Embaralha")
-1.  [TWP297 Gere uma lista de 15 inteiros aleatórios](https://youtu.be/HhwANFfzIMk  "TWP297 Gere uma lista de 15 inteiros aleatórios")
-1.  [TWP298 Gere uma lista de 15 aleatórios distintos](https://youtu.be/m-JiN6pMY34  "TWP298 Gere uma lista de 15 aleatórios distintos")
-1.  [**PLUS**]  [TWP301 App menina doze anos ](https://youtu.be/EetzrvvQIKQ  "TWP301 ")
-1.  [TWP310 Arquivos](https://youtu.be/C9_DTR1lCIs  "TWP310 Arquivos")
-1.  [TWP315 Arquivos cont](https://youtu.be/5z6zqyeLxjg  "TWP315 Arquivos cont")
-1.  [TWP320 Arquivos Python Way](https://youtu.be/iy6lC_n-C8Y  "TWP320 Arquivos Python Way")
-1.  [TWP325 Pseudo Cripto](https://youtu.be/8LPKBWfGgEM  "TWP325 Pseudo Cripto")
-1.  [TWP330 Validação Endereço IP](https://youtu.be/6Bez4QcGtak  "TWP330 Validação Endereço IP")
+1.  [revisão]  [TWP293 Fatorial Função e Globais vs Locais](https://youtu.be/NQrOJwNXRy8)
+1.  [TWP295 Módulo Random](https://youtu.be/pjKbKcDIB7k)
+1.  [TWP296 Embaralha](https://youtu.be/-aheOvpLSdg)
+1.  [TWP297 Gere uma lista de 15 inteiros aleatórios](https://youtu.be/tj8VfU4ai78)
+1.  [TWP298 Gere uma lista de 15 aleatórios distintos](https://youtu.be/Zs3kOy_1iHM)
+1.  [**PLUS**]  [TWP301 App menina doze anos](https://youtu.be/gUducs4BToU)
+1.  [TWP310 Arquivos](https://youtu.be/fN4uZGWQZ5I)
+1.  [TWP315 Arquivos cont](https://youtu.be/vwLqNW9zJRo)
+1.  [TWP320 Arquivos Python Way](https://youtu.be/AOUaCTZGlCk)
+1.  [TWP325 Pseudo Cripto](https://youtu.be/8DgTtYPgHn4)
+1.  [TWP330 Validação Endereço IP](https://youtu.be/dEyo86kd_SM)
 
 **Tarefa**:
 
@@ -234,73 +231,28 @@ Fazer um app que faça uma lista de algo aleatório e salve em um arquivo semana
 > Objetivo: Coleções - dicionário
 
 
-1.  [TWP340 Dicionários](https://youtu.be/ZhDQIL5bgEU)
-
-
-1.  [TWP345 Word Count with Dictionaries](https://youtu.be/vvfc3BAbmo0  "TWP345 Word Count with Dictionaries")
-
-
+1.  [TWP340 Dicionários](https://youtu.be/W09PVgieNsA)
+1.  [TWP345 Word Count with Dictionaries](https://youtu.be/xOpuLmNRxA4)
 
 Link do texto Alice, [clique aqui](http://www.gutenberg.org/cache/epub/11/pg11.txt.utf8.gzip  "Link do texto Alice")
 
-
-
 ------- vá tomar um café, p/ próx. assunto ---
-
-
-
-1.  [TWP350 Classes e Objetos](https://youtu.be/Zr_FiKbgRbU  "TWP350 Classes e Objetos")
-
-
-1.  [TWP352 Banco Tatú conta sem extrato](https://youtu.be/3MTDybCeMQE  "TWP352 Banco Tatú conta sem extrato")
-
-
-1.  [TWP353 Banco Tatú com extrato](https://youtu.be/d34q8zBje0I  "TWP353 Banco Tatú com extrato")
-
-
+1.  [TWP350 Classes e Objetos](https://youtu.be/j46yAxPlKa0)
+1.  [TWP352 Banco Tatú conta sem extrato](https://youtu.be/IiaDg2aHEp8)
+1.  [TWP353 Banco Tatú com extrato](https://youtu.be/WG_IfJlqjnQ)
 
 **Arquivos de apoio:**
-
-  
-
 -  [tatu.py](/Outros/tatu.py  "tatu.py")
-
-  
-
 -  [tatuCompleto.py](/Outros/tatuCompleto.py  "tatuCompleto.py")
-
-  
-
 -  [pessoa.py](/Outros/pessoa.py  "pessoa.py")
 
-  
-
-  
 
 **Plus**
 
-  
-
 -  [Dicionário by Guanabara](https://youtu.be/ZWj8o692qGY?t=166  "Dicionário by Guanabara") 45"
-
-  
-
-  
+ 
 
 **Tarefa**
 
-  
-
 O paradigma OO é complexo, costuma-se demorar anos para entender profundamente essas diferenças, a tarefa é fazer testes com a classe e caso queira sinta-se a vontade de criar uma nova classe.
 
-  
-
---------------------------
-
-  
-
-  
-
-  
-
-------------------------------------
