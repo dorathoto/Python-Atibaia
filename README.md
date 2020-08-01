@@ -1,7 +1,7 @@
 # Bem vindo ao grupo Python Atibaia Univesp
 
 
-[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-36%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/G6KSQ0wUSKDKXXfBMJweLU  "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-1-yellow.svg) ![](https://img.shields.io/badge/Linguagem-Python-orange.svg)
+[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-40%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/G6KSQ0wUSKDKXXfBMJweLU  "Abrir grupo WhatApp") ![](https://img.shields.io/badge/Este Módulo-Concluído-yellow.svg) ![](https://img.shields.io/badge/Linguagem-Python-orange.svg)
 
 Como todo bom engenheiro devemos saber programação. E o conhecimento em Python ajudará muito a entender sobre programação.
 
@@ -24,12 +24,12 @@ Também iremos praticar o **Coding Dojo** Saiba mais sobre coding dojo [ Aqui 1]
 **IDE:** Ide são editores de texto, para facilitar a programação do dia a dia, existem centenas, cada uma com seus pontos positivos e negativos, para esse curso iremos utilizar o do próprio Python, para saber o real motivo dessa escolha [clique aqui.](https://github.com/dorathoto/Python-Atibaia-0/wiki/Qual-Ide%3F  "clique aqui.")
 
 
-😊 Acompanhe seu andamento, [clique aqui](https://docs.google.com/spreadsheets/d/1WVIZw3rmagHS-F-5tFaSAvYS1p5AfoYbCqy8HVFKa38/edit?usp=sharing  "clique aqui")
+😊 Acompanhe seu andamento, [clique aqui](https://docs.google.com/spreadsheets/d/1WVIZw3rmagHS-F-5tFaSAvYS1p5AfoYbCqy8HVFKa38/edit?usp=sharing  "clique aqui") [NÃO ESTÁ MAIS SENDO USADO!]
 
 
 Os conteúdos **Plus**, não são obrigatórios assistir, coloco no objetivo de expandir o conhecimento ou ajudar em alguma duvida que possa surgir nos vídeos base.
 
-# Atenção se tiver link's quebrados informar no Whatsapp
+## Atenção se tiver link's quebrados informar no Whatsapp
   
 ### Semana 1 - ??/?? a ??/??
 
@@ -256,3 +256,9 @@ Link do texto Alice, [clique aqui](http://www.gutenberg.org/cache/epub/11/pg11.t
 
 O paradigma OO é complexo, costuma-se demorar anos para entender profundamente essas diferenças, a tarefa é fazer testes com a classe e caso queira sinta-se a vontade de criar uma nova classe.
 
+
+------------
+
+# Terminou todas as 7 semanas?
+Acha que acabou? que nada, agora começa a diversão de verdade, venha para o módulo 2 do curso, Science Data, onde o Python ganha de braçada das outras linguagens de programação.
+[https://github.com/dorathoto/Python-Atibaia/tree/master/DataScience](https://github.com/dorathoto/Python-Atibaia/tree/master/DataScience)
