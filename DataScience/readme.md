@@ -1,3 +1,5 @@
+# Acessar com e-mail do AVA, todos os vídeos estão no drive, então para acesso é e-mail AVA;
+
 ## O que vamos aprender?
 
 1. Tenha uma base teórica sólida sobre os principais algoritmos de Machine Learning;
