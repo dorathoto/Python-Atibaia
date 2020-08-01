@@ -30,3 +30,19 @@ Assiste o vídeo por inteiro, ai você tenta executar, claro que não irá lembr
 No final seu exercício deverá dar os mesmos resultados, faça exatamente igual.
 
 Depois que concluir o exercício exatamente como o vídeo você é livre de tentar algumas modificações no código, pois se não funcionar não terá vídeo para lhe ajudar, restará nosso grupo, mas que pode ser que ninguém saiba a resposta também.
+
+
+------------
+
+# Semana 1
+`Prazo: __/__/2020`
+
+https://github.com/dorathoto/Python-Atibaia/blob/master/DataScience/01.Introducao.md
+
+# Semana 2
+`Prazo: __/__/2020`
+https://github.com/dorathoto/Python-Atibaia/blob/master/DataScience/02.Scikit-Lean.md
+
+# Semana 3
+`Prazo: __/__/2020`
+https://github.com/dorathoto/Python-Atibaia/blob/master/DataScience/03.Bayesiana.md
