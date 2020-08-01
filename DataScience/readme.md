@@ -1,4 +1,5 @@
-# Acessar com e-mail do AVA, todos os vídeos estão no drive, então para acesso é e-mail AVA;
+# ;
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Acessar com e-mail do AVA, todos os vídeos estão no drive, então para acesso é e-mail AVA`
 
 ## O que vamos aprender?
 
