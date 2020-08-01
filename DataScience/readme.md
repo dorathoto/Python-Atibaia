@@ -1,4 +1,4 @@
-# Acessar com e-mail do AVA, todos os vídeos estão no drive, então para acesso é e-mail AVA;
+# Acessar com e-mail do AVA, todos os vídeos estão no drive, então para acesso é e-mail AVA
 
 ## O que vamos aprender?
 
