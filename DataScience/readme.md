@@ -1,4 +1,4 @@
-# Acessar com e-mail do AVA, todos os vídeos estão no drive, então para acesso é e-mail AVA
+# Acessar com e-mail do AVA!!!!! Não quero receber 200 request para autorizar os vídeos para outros e-mails.
 
 ## O que vamos aprender?
 
