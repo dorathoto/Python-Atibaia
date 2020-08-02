@@ -12,7 +12,7 @@ def escolheLinguagensTop3():
 
 
 def SalvaLista():
-    file = open('c:\\temp\\filepython.txt','w')
+    file = open('semana6.txt','w')
     file.write('\n'.join(listFinal) + '\n')
         
 
