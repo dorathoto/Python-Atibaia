@@ -35,14 +35,19 @@ Depois que concluir o exercício exatamente como o vídeo você é livre de tent
 ------------
 
 # Semana 1
-`Prazo: __/__/2020`
+`Prazo: 15/08/2020`
 
 https://github.com/dorathoto/Python-Atibaia/blob/master/DataScience/01.Introducao.md
 
 # Semana 2
-`Prazo: __/__/2020`
+`Prazo: 17/08/2020`
+
 https://github.com/dorathoto/Python-Atibaia/blob/master/DataScience/02.Scikit-Lean.md
 
 # Semana 3
-`Prazo: __/__/2020`
+`Prazo: 23/08/2020`
+
 https://github.com/dorathoto/Python-Atibaia/blob/master/DataScience/03.Bayesiana.md
+
+# Semana 4
+`Prazo: 30/08/2020`
