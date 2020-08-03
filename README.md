@@ -1,7 +1,7 @@
 # Bem vindo ao grupo Python Atibaia Univesp
 
 
-[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-40%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/G6KSQ0wUSKDKXXfBMJweLU  "Abrir grupo WhatApp") ![](https://img.shields.io/badge/Este Módulo-Concluído-yellow.svg) ![](https://img.shields.io/badge/Linguagem-Python-orange.svg)
+[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-40%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/G6KSQ0wUSKDKXXfBMJweLU  "Abrir grupo WhatApp") ![](https://img.shields.io/badge/Este%20M%C3%B3dulo-Conclu%C3%ADdo-yellow.svg) ![](https://img.shields.io/badge/Linguagem-Python-orange.svg)
 
 Como todo bom engenheiro devemos saber programação. E o conhecimento em Python ajudará muito a entender sobre programação.
 
