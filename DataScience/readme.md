@@ -29,6 +29,8 @@ Assiste o vídeo da aula inteira, pode acelerar se quiser. Faça suas anotaçõe
 Depois você tenta fazer o exercício, claro que não irá lembrar das etapas então você veja no vídeo a parte que precisar e ai vai fazendo junto, pausa o vídeo e continua...esqueceu, da o play novamente e veja os comandos.
 No final seu exercício deverá dar os mesmos resultados, faça exatamente igual.
 
+Você pode adaptar-se, o importante é não ficar parando a cada segundo para digitar exatamente o que ele falou, se desejar, assista uns 5min e depois você faz o bloco de código.
+
 Depois que concluir o exercício exatamente como o vídeo você é livre de tentar algumas modificações no código, pois se não funcionar não terá vídeo para lhe ajudar, restará nosso grupo, mas que pode ser que ninguém saiba a resposta também.
 
 
