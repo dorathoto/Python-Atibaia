@@ -24,10 +24,12 @@ Utilize um cardeno para fazer anotações de **termos** e **conceitos**, será m
 
 É imprecendivel você fazer todos os exercícios. 
 
-**A forma perfeita seria:**
+**Formas de estudos:**
 Assiste o vídeo da aula inteira, pode acelerar se quiser. Faça suas anotações.
 Depois você tenta fazer o exercício, claro que não irá lembrar das etapas então você veja no vídeo a parte que precisar e ai vai fazendo junto, pausa o vídeo e continua...esqueceu, da o play novamente e veja os comandos.
 No final seu exercício deverá dar os mesmos resultados, faça exatamente igual.
+
+Ou a forma mais rápida, assiste o conteúdo que ele digite uma linha de código, depois pause e tente fazer sozinho(a) se não lembrar olhe no vídeo.
 
 Você pode adaptar-se, o importante é não ficar parando a cada segundo para digitar exatamente o que ele falou, se desejar, assista uns 5min e depois você faz o bloco de código.
 
@@ -53,8 +55,17 @@ https://github.com/dorathoto/Python-Atibaia/blob/master/DataScience/02.Scikit-Le
 ## Semana 3
 `Prazo: 23/08/2020`
 
-https://github.com/dorathoto/Python-Atibaia/blob/master/DataScience/03.Bayesiana.md
+https://github.com/dorathoto/Python-Atibaia/blob/master/DataScience/04.Bayesiana.md
 
 ------------
 ## Semana 4
 `Prazo: 30/08/2020`
+
+https://github.com/dorathoto/Python-Atibaia/blob/master/DataScience/05.ArvoreDecisao.md
+
+
+------------
+## Semana 5
+`Prazo: 07/09/2020`
+
+https://github.com/dorathoto/Python-Atibaia/blob/master/DataScience/06.AprendizagemRegras.md
