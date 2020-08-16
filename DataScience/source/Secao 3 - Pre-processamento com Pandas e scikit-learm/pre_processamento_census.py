@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Leonardo S. Dorathoto
+"""
+
 import pandas as pd
 
 base = pd.read_csv('census.csv')

@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Leonardo S. Dorathoto
+"""
 import Orange
 
 base = Orange.data.Table('credit_data.csv')

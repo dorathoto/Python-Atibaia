@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Leonardo S. Dorathoto
+"""
 import pandas as pd
 import numpy as np
 
