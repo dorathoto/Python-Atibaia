@@ -16,6 +16,7 @@ Também iremos praticar o **Coding Dojo** Saiba mais sobre coding dojo [ Aqui 1]
 **Material utilizado**: Existem diversos cursos gratuitos de Python, a própria documentação dele é muito interessante para se aprender, mas por diversos motivos vamos escolher o ***Python para Zumbi*** do *prof. Fernando Masanori*. Porém é claro, colocaremos outros conteúdos que acharmos interessantes ou que notarmos que o grupo está com dificuldade. Exemplo de outros conteúdos.
 
 [http://excript.com/curso-de-python.html](http://excript.com/curso-de-python.html)
+
 [https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 
   
