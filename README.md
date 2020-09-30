@@ -13,15 +13,15 @@ Também iremos praticar o **Coding Dojo** Saiba mais sobre coding dojo [ Aqui 1]
 
 [Aqui 2](https://medium.com/@lkmf/coding-dojo-o-que-%C3%A9-pra-qu%C3%AA-serve-como-funciona-a84d333ea031 "Aqui 2")
 
-**Material utilizado**: Existem diversos cursos gratuitos de Python, a própria documentação dele é muito interessante para se aprender, mas por diversos motivos vamos escolher o ***Python para Zumbi*** do *prof. Fernando Masanori*.
+**Material utilizado**: Existem diversos cursos gratuitos de Python, a própria documentação dele é muito interessante para se aprender, mas por diversos motivos vamos escolher o ***Python para Zumbi*** do *prof. Fernando Masanori*. Porém é claro, colocaremos outros conteúdos que acharmos interessantes ou que notarmos que o grupo está com dificuldade. Exemplo de outros conteúdos.
 
 [http://excript.com/curso-de-python.html](http://excript.com/curso-de-python.html)
-
 [https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 
   
 
 **IDE:** Ide são editores de texto, para facilitar a programação do dia a dia, existem centenas, cada uma com seus pontos positivos e negativos, para esse curso iremos utilizar o do próprio Python, para saber o real motivo dessa escolha [clique aqui.](https://github.com/dorathoto/Python-Atibaia-0/wiki/Qual-Ide%3F  "clique aqui.")
+OBS: No módulo 2 (DataScience) utilizaremos Spyder (by Anaconda)
 
 
 😊 Acompanhe seu andamento, [clique aqui](https://docs.google.com/spreadsheets/d/1WVIZw3rmagHS-F-5tFaSAvYS1p5AfoYbCqy8HVFKa38/edit?usp=sharing  "clique aqui") [NÃO ESTÁ MAIS SENDO USADO!]
@@ -135,10 +135,6 @@ Tabuada de 5:
 
 ------------------------------------
 
-  
-
-  
-
 ### Semana 4 - 25/03 a 30/03
 
 > Objetivo: listas, coleções
@@ -177,7 +173,6 @@ Fazer um programa com listas baseado no vídeo plus 081 e mandar o print;
 
 
 **Assistir:**
-
   
 
 1.  [TWP280 Strings](https://youtu.be/O5zgBCwJ_RA)
@@ -260,5 +255,5 @@ O paradigma OO é complexo, costuma-se demorar anos para entender profundamente 
 ------------
 
 # Terminou todas as 7 semanas?
-Acha que acabou? que nada, agora começa a diversão de verdade, venha para o módulo 2 do curso, Science Data, onde o Python ganha de braçada das outras linguagens de programação.
+Acha que acabou? que nada, agora começa a diversão de verdade, venha para o módulo 2 do curso, Data Science, onde o Python ganha de braçada das outras linguagens de programação.
 [https://github.com/dorathoto/Python-Atibaia/tree/master/DataScience](https://github.com/dorathoto/Python-Atibaia/tree/master/DataScience)
